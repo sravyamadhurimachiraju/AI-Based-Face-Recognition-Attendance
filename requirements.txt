@@ -1,0 +1,16 @@
+# Core Libraries
+opencv-python        # For image processing and camera handling
+numpy                # For mathematical operations on image arrays
+
+# Deep Learning & Face Recognition
+face-recognition     # Simple, high-level library for detection and encoding
+dlib                 # Required for facial landmark detection
+tensorflow           # For running the AI models
+keras                # High-level API for the deep learning models
+
+# Data Management
+pandas               # For managing attendance records and CSV files
+openpyxl             # For exporting data to Excel format
+
+# Performance
+cmake                # Required for compiling dlib components
